@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/demo1.dir/src/main.cpp.o -o demo1  -lGL -lGLU /usr/lib/x86_64-linux-gnu/libSDL2.so 
